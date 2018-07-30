@@ -1,5 +1,6 @@
 # League of Legends Server
 
+Server for: https://github.com/tomyreyes/LoL-stats-app
 ## Usage:
 
 Clone repository
